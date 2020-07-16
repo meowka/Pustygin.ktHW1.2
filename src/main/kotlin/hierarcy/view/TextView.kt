@@ -9,6 +9,4 @@ fun main() {
 }
 
 class TextView(var number:String):View() {
-
-
 }
